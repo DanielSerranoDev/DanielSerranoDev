@@ -1,5 +1,7 @@
-# Hola¡¡¡
+![image](https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/d051f8a2-1f0e-4985-9c89-125b4ba2aeb6)
 
+
+  
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de aplicaciones móviles con experiencia en el desarrollo tanto para iOS como para Android. Me apasiona crear aplicaciones que sean creativas, elegantes y útiles para los usuarios. Aquí tienes un vistazo a mis habilidades y proyectos:
 
 ## Sobre mí
@@ -138,7 +140,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://photos.app.goo.gl/phEgoYwQYhMTV24b8)"  />
 
 ###
 
@@ -163,7 +165,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" height="30" alt="xcode logo"  />
+  <img src="[https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge](https://photos.app.goo.gl/phEgoYwQYhMTV24b8)" height="30" alt="xcode logo"  />
 </div>
 
 ###
@@ -193,7 +195,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://photos.google.com/share/AF1QipMHL4sZiHlAkSEzdj1sGvfVJzYcryaYoRp5gz4Js87A7BGkZ7FQ3VTh3s3KyjNNBQ/photo/AF1QipPwUiOtGyzxhxPoXoiLa7Rl8PrBnLn-L5vzNbLl?key=c1J0bUN0UUJGTTliSzBYbC1BSTBPWXlYeTBhcXpn"  />
 </div>
 
 ###
@@ -240,6 +242,7 @@
 </div>
 
 ###
+
 
 ###
 
