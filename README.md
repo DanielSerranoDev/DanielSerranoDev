@@ -14,10 +14,9 @@
 
 ### Desarrollo iOS
 - Lenguajes:
-- 
+  
    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />   <img width="12" /> <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="30" alt="swift logo"  /> <img width="12" />  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
 
-- 
 
 - Frameworks IOS: UIKit, SwiftUI, CoreData,
 - Frameworks Android: Android Jetpack Compose, Retrofit, Dagger/Hilt
@@ -34,6 +33,15 @@
   - Descripción: Una aplicación multiplataforma que permite a los usuarios [breve descripción].
   - Tecnologías utilizadas: SwiftUI, Jetpack Compose, Firebase
   - [Enlace al repositorio]([enlace-al-repositorio](https://github.com/ScriptSquadKC/Bantu_Android_App))
+
+  <img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/ab06e1fe-441d-4d50-9f3f-b9d3cea575eb" alt="image" style="width: 250px; height: 500px;" />
+  <img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/c041e8b4-0aa4-4fb3-8806-fc8d12bb23d0" alt="image" style="width: 250px; height: 500px;" />
+  <img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/c043bd1e-e8d7-430d-90cd-aa7c2175d10c" alt="image" style="width: 250px; height: 500px;" />
+
+
+
+  
+
   - [Enlace al repositorio]([[enlace-al-repositorio](https://github.com/ScriptSquadKC/Bantu_Android_App](https://github.com/DanielSerranoDev/Android_Superpoderes_Practica)))
 
 
