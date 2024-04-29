@@ -1,4 +1,4 @@
-![image](https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/d051f8a2-1f0e-4985-9c89-125b4ba2aeb6)
+![image](https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/f5bb0d65-fc89-4af5-994c-38d7f1b99021)
 
 
   
