@@ -2,7 +2,7 @@
 
 
   
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de aplicaciones móviles con experiencia en el desarrollo tanto para iOS como para Android. Me apasiona crear aplicaciones que sean creativas, elegantes y útiles para los usuarios. Aquí tienes un vistazo a mis habilidades y proyectos:
+¡Bienvenido a mi perfil de GitHub! Yo soy Daniel Serrano, un desarrollador de aplicaciones móviles con experiencia en el desarrollo tanto para iOS como para Android. Me apasiona crear aplicaciones que sean creativas, elegantes y útiles para los usuarios. Aquí tienes un vistazo a mis habilidades y proyectos:
 
 ## Sobre mí
 
@@ -16,6 +16,20 @@
 ### Lenguajes
   
    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />   <img width="12" /> <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="30" alt="swift logo"  /> <img width="12" />  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+
+### Tecnologias
+
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
+</div>
 
 ### Desarrollo iOS
 - Frameworks IOS: UIKit, SwiftUI, CoreData,
@@ -49,6 +63,7 @@
 <img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/0eedacad-7b14-4cd2-810a-d3896ca49e62" alt="image" style="width: 230px; height: 500px;" />
 
 
+
   
 
 
@@ -63,6 +78,3 @@
 
 
 ¡Gracias por visitar mi perfil!
-
-
-
