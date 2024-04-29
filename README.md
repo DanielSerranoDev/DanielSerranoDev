@@ -57,7 +57,7 @@
 ¡Si estás interesado en que colabore contigo en un proyecto o simplemente quieres saludar, no dudes en contactarme a través de [Correo Electrónico](danielserrano.dev@gmail.com) o [LinkedIn]([enlace-a-tu-perfil-linkedin](https://www.linkedin.com/in/daniel-serrano-ab924a276/))!
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-serrano-ab924a276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-serrano-ab924a276/" height="30" width="40" /></a><a href="https://www.instagram.com/dani_metal_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.instagram.com/dani_metal_/" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/daniel-serrano-ab924a276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-serrano-ab924a276/" height="30" width="40" /></a><a href="https://www.instagram.com/dani_metal_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.instagram.com/dani_metal_/" height="30" width="40" /></a></p>
 </div>
 
 
