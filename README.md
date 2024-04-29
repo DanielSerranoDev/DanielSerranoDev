@@ -18,13 +18,10 @@
    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />   <img width="12" /> <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" height="30" alt="swift logo"  /> <img width="12" />  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
 
 ### Desarrollo iOS
-
 - Frameworks IOS: UIKit, SwiftUI, CoreData,
-- Frameworks Android: Android Jetpack Compose, Retrofit, Dagger/Hilt
 - Herramientas: Xcode
 
 ### Desarrollo Android
-- Lenguajes: Kotlin
 - Frameworks: Android SDK, Jetpack Compose, Room,  Retrofit, Dagger/Hilt
 - Herramientas: Android Studio, Gradle, Firebase
 
@@ -41,9 +38,16 @@
   <img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/c041e8b4-0aa4-4fb3-8806-fc8d12bb23d0" alt="image" style="width: 230px; height: 500px;" />
   <img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/c043bd1e-e8d7-430d-90cd-aa7c2175d10c" alt="image" style="width: 230px; height: 500px;" />
 
+- **MARVEL API**
+                           
+  - Descripción: Una aplicación para IOS que funciona con la api de Marvel, donde podemos descubrir los detalles de nuestros heroes. 
+  - Tecnologías utilizadas: SwiftUI
+  - [Enlace al repositorio](https://github.com/DanielSerranoDev/IOS_SuperPoderes_Practica)
 
+<img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/d674c561-50f7-4d09-be3c-0ea700c51683" alt="image" style="width: 230px; height: 500px;" />
+<img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/f5bee58e-95a5-4bbd-829d-2edd69631bd9" alt="image" style="width: 230px; height: 500px;" />
+<img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/0eedacad-7b14-4cd2-810a-d3896ca49e62" alt="image" style="width: 230px; height: 500px;" />
 
-  
 
   
 
