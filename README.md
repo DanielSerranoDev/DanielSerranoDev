@@ -2,7 +2,7 @@
 
 
   
-¡Bienvenido a mi perfil de GitHub! Yo soy Daniel Serrano, un desarrollador de aplicaciones móviles con experiencia en el desarrollo tanto para iOS como para Android. Me apasiona crear aplicaciones que sean creativas, elegantes y útiles para los usuarios. Aquí tienes un vistazo a mis habilidades y proyectos:
+¡Bienvenido a mi perfil de GitHub! Soy Daniel Serrano, un desarrollador de aplicaciones móviles con experiencia en el desarrollo tanto para iOS como para Android. Me apasiona crear aplicaciones que sean creativas, elegantes y útiles para los usuarios. Puedes echar un vistazo a mis habilidades y proyectos:
 
 ## Sobre mí
 
