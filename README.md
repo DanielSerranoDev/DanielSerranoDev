@@ -48,7 +48,7 @@
   - [Enlace al repositorio](https://github.com/DanielSerranoDev/TMDB_Api)
  
 
-  <img src="[https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/af1a558b-500d-48b0-bb40-2ba391824ab3](https://github.com/user-attachments/assets/0bd5e818-aa56-4590-9477-e693c974882d)" alt="image" style="width: 230px; height: 500px;" />
+  <img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/af1a558b-500d-48b0-bb40-2ba391824ab3" alt="image" style="width: 230px; height: 500px;" />
 
 - **BANTU**
                            
