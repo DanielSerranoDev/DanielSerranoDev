@@ -42,13 +42,13 @@
 ## Proyectos Destacados
 
 - **TMDB API**
-                           
+                      
   - Descripción: Una aplicación Android, que te muestra el catalogo de peliculas y series de distintas plataformas de video. 
   - Tecnologías utilizadas: Jetpack Compose
   - [Enlace al repositorio](https://github.com/DanielSerranoDev/TMDB_Api)
  
 
-  <img src="https://github.com/DanielSerranoDev/DanielSerranoDev/assets/5658767/af1a558b-500d-48b0-bb40-2ba391824ab3" alt="image" style="width: 230px; height: 500px;" />
+  <img src="https://github.com/user-attachments/assets/a71bcf32-89ff-41eb-8c50-8e4c9715df10" alt="image" style="width: 230px; height: 500px;" />
 
 - **BANTU**
                            
