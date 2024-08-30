@@ -47,7 +47,7 @@
   - Tecnologías utilizadas: Jetpack Compose
   - [Enlace al repositorio](https://github.com/DanielSerranoDev/TMDB_Api)
  
-
+  <img src="https://github.com/user-attachments/assets/508bb7ce-4344-4c80-9032-a1521acafb7b" alt="image" style="width: 230px; height: 500px;" />
   <img src="https://github.com/user-attachments/assets/4c85a7d3-9c01-4c82-96a5-aafb52b0a522" alt="image" style="width: 230px; height: 500px;" />
   <img src="https://github.com/user-attachments/assets/19018863-4373-493e-9d52-003e9168ab2c" alt="image" style="width: 230px; height: 500px;" />
 
@@ -75,6 +75,10 @@
 
 
 
+
+https://github.com/user-attachments/assets/7d29e4e7-e015-4a1f-9198-1d50ba390a65
+
+
   
 
 
@@ -89,3 +93,5 @@
 
 
 ¡Gracias por visitar mi perfil!
+
+
